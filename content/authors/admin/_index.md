@@ -10,7 +10,7 @@ role: Master student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Southern Carlifornia
+  - name: University of Southern California
     url: https://www.cs.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
